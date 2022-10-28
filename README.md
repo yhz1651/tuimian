@@ -4,3 +4,6 @@
 - IDEA Utimate 2022.2.2
 - MySql 8.0
 - JDK 1.8
+
+## database目录下为数据库的创建语句
+## docs目录下为相关的文档
